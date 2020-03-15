@@ -1,0 +1,12 @@
+* OONI Probe / OONI Probe application strings / string 257 *
+
+ORIGINAL TEXT
+-------------
+You are about to re-test {websitesNumber} websites.
+
+TRANSLATION
+-----------
+Вы собираетесь повторно протестировать {websitesNumber} веб-сайтов.
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
