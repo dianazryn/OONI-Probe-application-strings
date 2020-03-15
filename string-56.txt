@@ -1,0 +1,12 @@
+* OONI Probe / OONI Probe application strings / string 56 *
+
+ORIGINAL TEXT
+-------------
+Test the blocking of censorship circumvention tools
+
+TRANSLATION
+-----------
+Протестируйте блокировку инструментов обхода цензуры
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
