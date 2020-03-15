@@ -1,0 +1,14 @@
+* OONI Probe / OONI Probe application strings / string 212 *
+
+ORIGINAL TEXT
+-------------
+We were able to successfully bootstrap a Psiphon connection. This means
+that [Psiphon](https://psiphon.ca/) should work.
+
+TRANSLATION
+-----------
+Нам удалось успешно установить соединение с Psiphon. Это означает,
+что [Psiphon](https://psiphon.ca/) должен работать.
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
