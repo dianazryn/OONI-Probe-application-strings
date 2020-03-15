@@ -1,0 +1,12 @@
+* OONI Probe / OONI Probe application strings / string 140 *
+
+ORIGINAL TEXT
+-------------
+Show in OONI Explorer
+
+TRANSLATION
+-----------
+Показать в OONI Explorer
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
