@@ -1,0 +1,12 @@
+* OONI Probe / OONI Probe application strings / string 211 *
+
+ORIGINAL TEXT
+-------------
+[Psiphon](https://psiphon.ca/) appears to be blocked.
+
+TRANSLATION
+-----------
+Похоже, [Psiphon](https://psiphon.ca/) заблокирован.
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
