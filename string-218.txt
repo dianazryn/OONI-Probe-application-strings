@@ -1,0 +1,16 @@
+* OONI Probe / OONI Probe application strings / string 218 *
+
+ORIGINAL TEXT
+-------------
+We were able to successfully connect to the default Tor bridges and/or
+Tor directory authorities. This means that [Tor](https://www.torproject.org/)
+should work.
+
+TRANSLATION
+-----------
+Нам удалось успешно установить соединение со стандартными мостами Tor и/или
+управляющими списками Tor. Это означает, что [Tor](https://www.torproject.org/)
+должен работать.
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
