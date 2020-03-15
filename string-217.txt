@@ -1,0 +1,12 @@
+* OONI Probe / OONI Probe application strings / string 217 *
+
+ORIGINAL TEXT
+-------------
+[Tor](https://www.torproject.org/) appears to be blocked.
+
+TRANSLATION
+-----------
+Похоже, [Tor](https://www.torproject.org/) заблокирован.
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
