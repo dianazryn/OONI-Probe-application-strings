@@ -1,0 +1,12 @@
+* OONI Probe / OONI Probe application strings / string 221 *
+
+ORIGINAL TEXT
+-------------
+Directory Authorities
+
+TRANSLATION
+-----------
+Управляющие списками
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
