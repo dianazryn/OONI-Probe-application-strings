@@ -1,0 +1,12 @@
+* OONI Probe / OONI Probe application strings / string 265 *
+
+ORIGINAL TEXT
+-------------
+We have failed to upload {numberFailed}/{totalUploads} measurements. The failure log has been shared with OONI developers.
+
+TRANSLATION
+-----------
+Нам не удалось загрузить измерения {numberFailed}/{totalUploads}. Журнал сбоев был передан разработчикам OONI.
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
