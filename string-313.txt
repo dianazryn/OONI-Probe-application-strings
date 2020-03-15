@@ -1,0 +1,12 @@
+* OONI Probe / OONI Probe application strings / string 313 *
+
+ORIGINAL TEXT
+-------------
+Limit test duration
+
+TRANSLATION
+-----------
+Ограничить продолжительность теста
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
