@@ -1,0 +1,12 @@
+* OONI Probe / OONI Probe application strings / string 43 *
+
+ORIGINAL TEXT
+-------------
+Calculating ETA
+
+TRANSLATION
+-----------
+Вычисляем предполагаемое время
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
