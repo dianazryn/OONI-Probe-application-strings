@@ -1,0 +1,12 @@
+* OONI Probe / OONI Probe application strings / string 308 *
+
+ORIGINAL TEXT
+-------------
+Test options
+
+TRANSLATION
+-----------
+Варианты тестирования
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
