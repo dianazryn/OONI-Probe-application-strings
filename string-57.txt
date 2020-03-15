@@ -1,0 +1,16 @@
+* OONI Probe / OONI Probe application strings / string 57 *
+
+ORIGINAL TEXT
+-------------
+Check whether [Psiphon](https://ooni.io/nettest/psiphon/) and [Tor](https://ooni.io/nettest/tor/) are blocked.
+
+Your results will be published on [OONI Explorer](https://explorer.ooni.org/) and [OONI API](https://api.ooni.io/).
+
+TRANSLATION
+-----------
+Узнайте, заблокированы ли [Psiphon](https://ooni.io/nettest/psiphon/) и [Tor](https://ooni.io/nettest/tor/).
+
+Результаты будут опубликованы в [OONI Explorer](https://explorer.ooni.org/) и [OONI API](https://api.ooni.io/).
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
