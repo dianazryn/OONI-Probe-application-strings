@@ -1,0 +1,12 @@
+* OONI Probe / OONI Probe application strings / string 330 *
+
+ORIGINAL TEXT
+-------------
+Number of tested websites (0 means all)
+
+TRANSLATION
+-----------
+Количество проверенных веб-сайтов (0 означает все)
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
