@@ -1,0 +1,12 @@
+* OONI Probe / OONI Probe application strings / string 349 *
+
+ORIGINAL TEXT
+-------------
+Current app language is {lang}
+
+TRANSLATION
+-----------
+Текущий язык приложения: {lang}
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
